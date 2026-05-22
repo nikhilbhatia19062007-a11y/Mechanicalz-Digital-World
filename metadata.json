@@ -1,0 +1,6 @@
+{
+  "name": "Mechanicalz Digital World",
+  "description": "Best Mobile & Electronics Store in Sanjauli, Shimla. Mobile repair, affordable gadgets, laptops, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
